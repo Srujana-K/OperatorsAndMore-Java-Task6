@@ -16,7 +16,7 @@ public class Vampire {
                 Arrays.sort(s2);
                 if(Arrays.equals(s1,s2)){
                     res++;
-                    System.err.println(" "+res+". vampire number: "+product);
+                    System.out.println(" "+res+". vampire number: "+product);
                 }
             }
         }
